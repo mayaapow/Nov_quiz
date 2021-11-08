@@ -1,0 +1,28 @@
+type="text/css">
+        .container {
+            padding: 3px;
+        }
+
+        p {
+            font-family: 'Georgia', serif;
+            font-size: 16px;
+            color: #111;
+        }
+        img {
+            border: 2px solid orangered;
+        }
+        
+        #byline {
+            color: #282828;
+            font-style: italic;
+            text-align: center;
+        }
+
+        .pull-quote {
+            margin-left: 10px;
+            border: 2px dashed orangered;
+            text-align: center;
+            font-style: italic;
+            font-size: 20px;
+            color: #007A36;
+        }
